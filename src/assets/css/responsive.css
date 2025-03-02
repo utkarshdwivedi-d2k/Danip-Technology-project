@@ -1,0 +1,1066 @@
+@media only screen and (min-width: 768px) and (max-width: 1000px) {
+    .mobile-sub-image-page .heading-text {
+        font-size: 28px;
+    }
+
+    .service-container .heading {
+        font-size: 28px !important;
+    }
+
+    .service-container .card-paragraph {
+        font-size: 16px !important;
+    }
+
+    .service-container .card-heading {
+        font-size: 24px !important;
+    }
+
+    .about-us-artical-div-container {
+        padding: 50px 100px;
+    }
+
+    .aboutus-container .line-left {
+
+        left: 28%;
+    }
+
+    .aboutus-container .line-right {
+        right: 28%;
+    }
+
+    .card-customize {
+        min-width: auto !important;
+        max-width: auto !important;
+    }
+
+    .feturing-container {
+        padding-right: 60px !important;
+    }
+
+    .digital-transformation-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .digital-transformation-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .digital-transformation-heading-container .digital-transformation-heading {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    .digital-transformation-heading-container .heading-paragraph {
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .our-technologies-container .heading-paragraph {
+        font-size: 14px;
+        letter-spacing: normal;
+    }
+
+    .our-values .heading-paragraph {
+        font-size: 14px;
+        letter-spacing: normal;
+    }
+
+    .digital-transformation-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 14px;
+
+    }
+
+    .home-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+
+    }
+
+    .home-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .home-heading-container .aboutus-heading {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    .home-heading-container .heading-paragraph {
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+        width: 80%;
+    }
+
+    .home-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 14px;
+
+    }
+
+    /* sfs */
+
+    .aboutus-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .aboutus-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .aboutus-heading-container .aboutus-heading {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    .aboutus-heading-container .heading-paragraph {
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .aboutus-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 14px;
+
+    }
+
+    .dubai-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .ai-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .ai-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .ai-heading-container .ai-heading {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    .ai-heading-container .heading-paragraph {
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .ai-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 14px;
+
+    }
+
+    .custom-navbar-container {
+        padding: 20px 25px;
+    }
+
+    .custom-navbar-container .logo-img {
+        width: 168px;
+        height: 49px;
+
+    }
+
+    .digital-industries-carousel .slick-dots-bottom {
+        bottom: 3px !important;
+    }
+
+    .case-study .case-study-heading {
+        font-size: 40px;
+    }
+
+    .case-study .heading-paragraph {
+        font-size: 16px;
+    }
+
+    .our-story .story-container .story-heading {
+        text-align: center;
+    }
+
+    .our-story .story-container .story-time {
+        flex-direction: column !important;
+    }
+
+    .our-story .story-container .story-time .divider-line-visible {
+        height: 55px !important;
+    }
+
+    .our-story .story-container {
+        gap: 50px;
+    }
+
+    .our-story .story-container .story-time .divider-line {
+        display: none;
+    }
+
+    .our-story .story-container .story-time .our-story-year-div-right {
+        position: static !important;
+        margin: 0;
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-time .our-story-year-div-left {
+        position: static !important;
+        margin: 0;
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-img {
+        justify-content: center !important;
+        width: 250px !important;
+    }
+
+    .our-story .story-container .story-img img {
+        width: 250px !important;
+    }
+
+    .our-story .story-container .story-time-last {
+        align-items: center !important;
+    }
+
+    .contact-us-card {
+        margin-top: 0px !important;
+    }
+
+    .contact-us-card .contact-form-container {
+        width: 100% !important;
+    }
+
+    .contact-form-container {
+        box-shadow: none
+    }
+
+    .video-container {
+        height: 35vh;
+        overflow: visible;
+    }
+
+    .case-study-heading-container {
+        margin-top: 63px !important;
+    }
+
+    .contact-us-navbar-container {
+        margin-top: 53px !important;
+    }
+
+    .mobile-app-development-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .mobile-app-development-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .mobile-app-development-heading-container .main-heading {
+        font-size: 48px;
+        font-weight: 700;
+    }
+
+    .mobile-app-development-heading-container .heading-paragraph {
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .mobile-app-development-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 14px;
+
+    }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .mobile-sub-image-page .heading-text {
+        font-size: 28px;
+    }
+
+    .service-container .heading {
+        font-size: 24px !important;
+    }
+
+    .service-container .card-paragraph {
+        font-size: 16px !important;
+    }
+
+    .service-container .card-heading {
+        font-size: 24px !important;
+    }
+
+    .tech-carousel .slick-dots {
+        margin-bottom: -90px !important;
+        z-index: 0;
+    }
+
+    .about-us-artical-div-container {
+        padding: 50px 70px;
+    }
+
+    .about-us-artical-div-container .about-us-artical-div {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .aboutus-container .line-left {
+
+        left: 26%;
+    }
+
+    .aboutus-container .line-right {
+        right: 26%;
+    }
+
+    .card-customize {
+        min-width: auto !important;
+        max-width: auto !important;
+    }
+
+    .feturing-container {
+        padding-right: 20px !important;
+    }
+
+    .ready-to-transform-bg {
+        flex-direction: column-reverse;
+    }
+
+    .heading-searchbar-container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .blog-home-page-card {
+        padding: 20px 25px !important;
+    }
+
+    .digital-transformation-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .digital-transformation-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .digital-transformation-heading-container .digital-transformation-heading {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .digital-transformation-heading-container .heading-paragraph {
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+        width: 85%;
+    }
+
+    .our-technologies-container .heading-paragraph {
+        font-size: 12px;
+        letter-spacing: normal;
+    }
+
+    .our-values .heading-paragraph {
+        font-size: 12px;
+        letter-spacing: normal;
+    }
+
+    .digital-transformation-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 12px;
+
+    }
+
+
+    .home-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+
+    }
+
+    .home-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .home-heading-container .aboutus-heading {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .home-heading-container .heading-paragraph {
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .home-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 12px;
+
+    }
+
+
+
+
+
+    .aboutus-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .aboutus-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .aboutus-heading-container .aboutus-heading {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .aboutus-heading-container .heading-paragraph {
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .aboutus-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 12px;
+
+    }
+
+
+
+    .dubai-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .ai-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .ai-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .ai-heading-container .ai-heading {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .ai-heading-container .heading-paragraph {
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .ai-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 12px;
+
+    }
+
+
+    .custom-navbar-container {
+        padding: 25px 20px;
+    }
+
+    .custom-navbar-container .logo-img {
+        width: 111px;
+        height: 34px;
+    }
+
+    .digital-industries-carousel .slick-dots-bottom {
+        bottom: 3px !important;
+    }
+
+    .case-study .case-study-heading {
+        font-size: 30px;
+        line-height: 40.6px;
+    }
+
+    .case-study .heading-paragraph {
+        font-size: 14px;
+        line-height: 23.4px;
+    }
+
+    .case-study .casestudy-card-container img {
+        border-radius: 10px;
+    }
+
+    .our-story .story-container .story-heading {
+        text-align: center;
+    }
+
+    .our-story .story-container .story-time {
+        flex-direction: column !important;
+    }
+
+    .our-story .story-container .story-time .divider-line-visible {
+        height: 55px !important;
+    }
+
+    .our-story .story-container {
+        gap: 50px;
+    }
+
+    .our-story .story-container .story-time .divider-line {
+        display: none;
+    }
+
+    .our-story .story-container .story-time .our-story-year-div-right {
+        position: static !important;
+        margin: 0;
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-time .our-story-year-div-left {
+        position: static !important;
+        margin: 0;
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-img {
+        justify-content: center !important;
+    }
+
+    .our-story .story-container .story-img img {
+        width: 200px !important;
+    }
+
+    .our-story .story-container .story-time-last {
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-img img {
+        width: 180px !important;
+    }
+
+    .our-office-bg-image {
+        text-align: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .our-office-bg-image .content .heading {
+        align-items: center;
+    }
+
+    .contact-us-card {
+        margin-top: 0px !important;
+    }
+
+    .contact-us-card .contact-form-container {
+        width: 100% !important;
+    }
+
+    .contact-form-container {
+        box-shadow: none
+    }
+
+    .video-container {
+        height: 35vh;
+        overflow: visible;
+    }
+
+    .case-study-heading-container {
+        margin-top: 63px !important;
+    }
+
+    .contact-us-navbar-container {
+        margin-top: 53px !important;
+    }
+
+    .mobile-app-development-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .mobile-app-development-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .mobile-app-development-heading-container .main-heading {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .mobile-app-development-heading-container .heading-paragraph {
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+        width: 85%;
+    }
+
+    .mobile-app-development-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 12px;
+
+    }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .mobile-sub-image-page .heading-text {
+        font-size: 18px;
+    }
+
+    .service-container .card-paragraph {
+        font-size: 12px !important;
+        line-height: 1.5em !important;
+        letter-spacing: 0em !important;
+    }
+
+    .service-container .card-heading {
+        font-size: 16px !important;
+    }
+
+    .service-container .heading {
+        font-size: 18px !important;
+    }
+
+    .about-us-artical-div-container {
+        padding: 20px 30px;
+    }
+
+    .about-us-artical-div-container .about-us-artical-div {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .aboutus-container .line-left {
+
+        left: 24%;
+    }
+
+    .aboutus-container .line-right {
+        right: 24%;
+    }
+
+    .card-customize {
+        min-width: auto !important;
+        max-width: auto !important;
+    }
+
+    .feturing-container {
+        padding-right: 20px !important;
+    }
+
+    .custom-step .ant-steps-item-content {
+        margin-left: 10px !important;
+    }
+
+    .custom-step .ant-steps-item-container {
+        display: flex;
+    }
+
+    .custom-step .ant-steps-item-container .ant-steps-item-tail {
+        inset-inline-start: 49px !important;
+    }
+
+    .custom-step .ant-steps-item-container .ant-steps-item-tail::after {
+        width: 3px !important;
+        height: 100% !important;
+        background-color: #184D98 !important;
+    }
+
+    .ready-to-transform-bg {
+        flex-direction: column-reverse;
+    }
+
+    .heading-searchbar-container {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .blog-home-page-card {
+        padding: 15px 16px !important;
+    }
+
+    .digital-transformation-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+        background-position: -400px 0;
+    }
+
+    .digital-transformation-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .digital-transformation-heading-container .digital-transformation-heading {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .digital-transformation-heading-container .heading-paragraph {
+        font-size: 10px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .our-technologies-container .heading-paragraph {
+        font-size: 10px;
+        letter-spacing: normal;
+    }
+
+    .our-values .heading-paragraph {
+        font-size: 10px;
+        letter-spacing: normal;
+    }
+
+    .digital-transformation-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 10px;
+
+    }
+
+    .home-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+
+    }
+
+    .home-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .home-heading-container .aboutus-heading {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .home-heading-container .heading-paragraph {
+        font-size: 10px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+        width: 100%;
+    }
+
+    .home-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 10px;
+
+    }
+
+
+
+    .aboutus-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .aboutus-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .aboutus-heading-container .aboutus-heading {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .aboutus-heading-container .heading-paragraph {
+        font-size: 10px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .aboutus-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 10px;
+
+    }
+
+
+    .dubai-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .ai-heading-container {
+        background-size: cover;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+    }
+
+    .ai-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .ai-heading-container .ai-heading {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .ai-heading-container .heading-paragraph {
+        font-size: 10px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .ai-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 10px;
+
+    }
+
+    .custom-navbar-container {
+        padding: 20px 24px;
+
+    }
+
+    .custom-navbar-container .logo-img {
+        width: 111px;
+        height: 34px;
+    }
+
+    .digital-industries-carousel .slick-dots-bottom {
+        bottom: 3px !important;
+    }
+
+    .case-study .case-study-heading {
+        font-size: 24px;
+        line-height: 33.6px;
+    }
+
+    .case-study .heading-paragraph {
+        font-size: 12px;
+        line-height: 20.4px;
+    }
+
+    .case-study .casestudy-card-container img {
+        border-radius: 10px;
+    }
+
+    .tech-carousel .slick-dots {
+        margin-bottom: -73px !important;
+        z-index: 0;
+    }
+
+    .industries-card {
+        height: auto;
+    }
+
+    .dubai-main-section-container {
+        padding-left: 0px;
+    }
+
+    .dubai-main-section-container .navbar-content {
+        padding-left: 20px !important;
+    }
+
+    .carousel-container {
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+
+    .our-story .story-container .story-heading {
+        text-align: center;
+    }
+
+    .our-story .story-container .story-time {
+        flex-direction: column;
+    }
+
+    .our-story .story-container {
+        gap: 50px;
+    }
+
+    .our-story .story-container .story-time .divider-line {
+        display: none;
+    }
+
+    .our-story .story-container .story-time .divider-line-visible {
+        height: 55px !important;
+    }
+
+    .our-story .story-container .story-time-last {
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-time .our-story-year-div-right {
+        position: static !important;
+        margin: 0;
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-time .our-story-year-div-left {
+        position: static !important;
+        margin: 0;
+        align-items: center !important;
+    }
+
+    .our-story .story-container .story-img {
+        justify-content: center !important;
+    }
+
+    .our-story .story-container .story-img img {
+        width: 180px !important;
+    }
+
+    .our-office-bg-image {
+        text-align: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .our-office-bg-image .content .heading {
+        align-items: center;
+    }
+
+    .contact-us-card {
+        margin-top: 0px !important;
+    }
+
+    .contact-us-card .contact-form-container {
+        width: 100% !important;
+    }
+
+    .contact-form-container {
+        box-shadow: none
+    }
+
+    .video-container {
+        height: 35vh;
+        overflow: visible;
+    }
+
+    .case-study-heading-container {
+        margin-top: 63px !important;
+    }
+
+    .contact-us-navbar-container {
+        margin-top: 53px !important;
+    }
+
+    .mobile-app-development-heading-container {
+        background-size: auto;
+        height: auto !important;
+        min-height: auto;
+        width: 100%;
+        background-position: -580px -75px
+    }
+
+    .mobile-app-development-heading-container .heading-container {
+        padding-left: 0px;
+        padding-top: 90px !important;
+    }
+
+    .mobile-app-development-heading-container .main-heading {
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .mobile-app-development-heading-container .heading-paragraph {
+        font-size: 10px;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .mobile-app-development-heading-container .heading-btn {
+        padding: 8px 20px 8px 20px;
+        gap: 10px;
+        border-radius: 50px;
+        font-size: 10px;
+
+    }
+    .icon-container .icon-div .partner{
+        display: flex;
+        flex-direction: column;
+        gap: 10px !important;
+        font-size: 16px !important;
+    }
+    .icon-container .icon-div .partner img{
+        width: auto;
+        height: 25px !important;
+    }
+}
+
+
+
+
